@@ -1,0 +1,72 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "Finibus Bonorum et Malorum",
+      "author": "John Doe",
+      "thumbnail": "https://picsum.photos/200",
+      "banner": "banner1.png",
+      "short_desc": "This is the first post.",
+      "content": "Section 1.10.32 of de Finibus Bonorum et Malorum, written by Cicero in 45 BC Sed ut perspiciatis unde omnis iste natus error sit voluptatemaccusantium doloremque laudantium, totam rem aperiam, eaque ipsaquae ab illo inventore veritatis et quasi architecto beatae vitaedicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas siaspernatur aut odit aut fugit, sed quia consequuntur magni doloreseos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est,qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit,sed quia non numquam eius modi tempora incidunt ut labore et doloremagnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quisnostrum exercitationem ullam corporis suscipit laboriosam, nisi utaliquid ex ea commodi consequatur? Quis autem vel eum iurereprehenderit qui in ea voluptate velit esse quam nihil molestiaeconsequatur, vel illum qui dolorem eum fugiat quo voluptas nullapariatur?",
+      "createdAt": "01/01/2022"
+    },
+    {
+      "id": "2",
+      "title": "Second Post",
+      "author": "Jane Smith",
+      "thumbnail": "https://picsum.photos/200",
+      "banner": "banner2.png",
+      "short_desc": "This is the second post.",
+      "content": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "createdAt": "01/02/2022"
+    },
+    {
+      "id": "3",
+      "title": "Third Post",
+      "author": "Alice Johnson",
+      "thumbnail": "https://picsum.photos/200",
+      "banner": "banner3.png",
+      "short_desc": "This is the third post.",
+      "content": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "createdAt": "01/03/2022"
+    },
+    {
+      "id": "5",
+      "title": "Fifth Post",
+      "author": "Eve Wilson",
+      "thumbnail": "https://picsum.photos/200",
+      "banner": "banner5.png",
+      "short_desc": "This is the fifth post.",
+      "content": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "createdAt": "01/05/2022"
+    },
+    {
+      "id": "6",
+      "title": "Sixth Post",
+      "author": "Alex Lee asdadssad",
+      "thumbnail": "https://picsum.photos/200",
+      "banner": "banner6.png",
+      "short_desc": "This is the sixth post.",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "createdAt": "01/06/2022"
+    },
+    {
+      "id": "a44d",
+      "title": "qwqweq asd",
+      "author": "qweqwe asdasd",
+      "short_desc": "qweqwe",
+      "content": "qweqweqwe  saseqwe",
+      "thumbnail": "https://picsum.photos/200",
+      "createdAt": "20/03/2024"
+    },
+    {
+      "id": "a8a0",
+      "title": "asdasd 132",
+      "author": "asdasdas",
+      "short_desc": "qweqweqwe",
+      "content": "sadad asd ads a 23 1321 asd",
+      "thumbnail": "https://picsum.photos/200",
+      "createdAt": "10/04/2024"
+    }
+  ]
+}
